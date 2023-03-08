@@ -15,4 +15,4 @@ chmod 700 node_exporter_install.sh
 ```
 
 ## Access to node_exporter
-http://<IP address>:9100
+`http://<IP address>:9100`
